@@ -18,7 +18,7 @@ Então, se a centralização não está funcionando: vamos descentralizar! A ide
 
 
 
-## Code Contributors
+## Core Contributors
 
 [![Lucas Teske](https://avatars1.githubusercontent.com/u/578310?s=64&v=4)](https://github.com/racerxdl) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64&v=4)](https://github.com/nic)
 |---|---|
