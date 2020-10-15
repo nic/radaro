@@ -4,7 +4,7 @@
 ## Motivation
 (pt-BR) Aqui no Brasil 🇧🇷  temos um problema muito sério na área de radares meteorológicos: há pouquíssimo insentivo pública (governamental) para manter a operação de radares comerciais (são bem caros!). Com isso: há uma pobre cobertura nacional de radares de tempo real. 😕
 
-Então, se a centralização não está resolvendo: vamos descentralizar! A ideia deste projeto é criar uma rede distrubida de radares de baixo custo por todo o país e, desta forma, obter dados em tempo real sobre chuvas em regiões onde hoje não há qualquer radar.
+Então, se a centralização não está resolvendo: vamos descentralizar! **A ideia deste projeto é criar uma rede distrubida de radares de baixo custo por todo o país** e, desta forma, obter dados em tempo real sobre chuvas em regiões onde hoje não há qualquer radar.
 
 É um projeto multi-dissiplinar. Vamos precisar de engenherios(as) de software, hardware, meteorologia, designer industrial, designer de experiência, ilustradores..
 
