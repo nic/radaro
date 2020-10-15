@@ -14,5 +14,5 @@ _TODO_
 _TODO_
 
 ## Funções matemáticas
-
+_TODO_
 
