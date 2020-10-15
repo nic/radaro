@@ -13,9 +13,8 @@ Então, se a centralização não está funcionando: vamos descentralizar! A ide
 - [ ] Software embarcado
 - [ ] Case à prova de chuva e UV
 - [ ] PCB
-- [ ] Backend para obter os dados
-- [ ] Gerador de mapa de calor
-- [ ] Frontend que mostra os dados
+- [ ] Backend (obter os dados e gerar mapa de calor realtime)
+- [ ] Frontend (mostrar mapa de calor realtime)
 
 
 
