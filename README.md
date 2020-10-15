@@ -30,6 +30,6 @@ Então, se a centralização não está funcionando: vamos descentralizar! A ide
 
 
 
-## Licence
+## License
 
 Veja o arquivo LICENSE para detalhes de licença deste repositório.
