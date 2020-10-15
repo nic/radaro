@@ -20,6 +20,7 @@ Então, se a centralização não está resolvendo: vamos descentralizar! **A id
 ## FAQ
 - Posso operar um Radar Banda X no quintal da minha casa? R: Sim! desde que você (ou alguém que você conheça) tenha licença de radioamador junto a Anatel, para ser o responsável pela operação da base.
 - Como posso ajudar? R: É um projeto multi-dissiplinar que envolve desenvolvimento de hardware e hospedagem de aplicação. Então você pode ajudar de três formas: (1) com seu conhecimento, ajudando a levantar e matar `issues`; (2) financeiramente, colaborando para que possamos comprar equipamentos para realizar pesquisa e desenvolvimento (https://picpay.me/nic); (3) construir e operar uma base no quintal da sua casa (requer licença de radioamador).
+- Estes radares não vão pegar aviões no céu? R: Sim! Mas como a telemetria da aviação comercial é aberta, podemos utilizar estes dados para remover os aviões do mapa.
 
 ## Donate
 - https://picpay.me/nic
