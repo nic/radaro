@@ -10,8 +10,9 @@ Então, se a centralização não está funcionando: vamos descentralizar! A ide
 
 # Progresso do projeto
 - [ ] Protótipo do radar (hardware)
-- [ ] Software embarcado que consiga interpretar as leituras do sensor
-- [ ] Case à prova de chuva
+- [ ] Software embarcado
+- [ ] Case à prova de chuva e UV
+- [ ] PCB
 - [ ] Backend para obter os dados
 - [ ] Gerador de mapa de calor
 - [ ] Frontend que mostra os dados
