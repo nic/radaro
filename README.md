@@ -6,7 +6,7 @@
 
 Então, se a centralização não está resolvendo: vamos descentralizar! A ideia deste projeto é criar uma rede distrubida de radares de baixo custo por todo o país e, desta forma, obter dados em tempo real sobre chuvas em regiões onde hoje não há qualquer radar.
 
-É um projeto multi-dissiplinar de conhecimento. Vamos precisar de desenvolvedores de software, desenvolvedores de hardware, meteorologistas, designers..
+É um projeto multi-dissiplinar. Vamos precisar de engenherios(as) de software, hardware, meteorologia, designer industrial, designer de experiência, ilustradores..
 
 
 ## Progress
