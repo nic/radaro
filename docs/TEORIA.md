@@ -1,5 +1,5 @@
 # Revisão da Teoría
-> Entenda aqui quais os princípios que tornal possível o funcionamento do radar meteorológico
+> Entenda aqui quais os princípios que torna possível o funcionamento do radar meteorológico
 
 ## Espectro de frequências
 _TODO_
